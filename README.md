@@ -35,5 +35,5 @@ onde eu possa aprender com time, evoluir tecnicamente e contribuir com projetos 
 
 ## 📫 Onde me encontrar
 
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas-magalh%C3%A3es-11672b18b/
 - 🧑‍💻 GitHub: https://github.com/imoozy
