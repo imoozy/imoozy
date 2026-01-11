@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Opa, eu sou o Lucas (imoozy)
 
-<!--
-**imoozy/imoozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software (FIAP)  
+💻 Desenvolvedor Full Stack em formação  
+🚀 Focado em JavaScript, React, Node.js e Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que uso
+
+- Front-end: HTML, CSS, Bootstrap, Tailwind, React
+- Back-end: Node.js, Express
+- Linguagens: JavaScript, Python, Java
+- Banco de Dados: SQL (básico), JSON
+- Ferramentas: Git, GitHub, VS Code, Figma (básico)
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 **Projeto React** – Aplicação usando componentes, props e estado  
+🔹 **Traveller** – Site responsivo com HTML, CSS e JavaScript  
+🔹 **Painel Admin (em desenvolvimento)** – CRUD com Node + React
+
+👉 Veja meus repositórios abaixo ⬇️
+
+---
+
+## 🎯 Objetivo
+
+Busco oportunidade como **Desenvolvedor Júnior / Estágio em Desenvolvimento**  
+onde eu possa aprender com time, evoluir tecnicamente e contribuir com projetos reais.
+
+---
+
+## 📫 Onde me encontrar
+
+- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK
+- 🧑‍💻 GitHub: https://github.com/imoozy
