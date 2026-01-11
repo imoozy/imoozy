@@ -1,39 +1,39 @@
-# 👋 Opa, eu sou o Lucas (imoozy)
+# 👋 Opa! Eu sou o Lucas Magalhães (imoozy)
 
+🧑‍💻 **Desenvolvedor Full Stack em formação**  
 🎓 Estudante de Engenharia de Software (FIAP)  
-💻 Desenvolvedor Full Stack em formação  
-🚀 Focado em JavaScript, React, Node.js e Python
+🚀 Em busca de oportunidades como **Desenvolvedor Júnior / Estágio**  
+📍 Bragança Paulista / SP
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias
 
-- Front-end: HTML, CSS, Bootstrap, Tailwind, React
-- Back-end: Node.js, Express
-- Linguagens: JavaScript, Python, Java
-- Banco de Dados: SQL (básico), JSON
-- Ferramentas: Git, GitHub, VS Code, Figma (básico)
+### Front-end
+🟦 HTML5 • 🎨 CSS3 • ⚛️ React • Bootstrap • Tailwind
 
----
+### Back-end
+🟨 JavaScript (Node.js, Express) • 🐍 Python
 
-## 📌 Projetos em destaque
-
-🔹 **Projeto React** – Aplicação usando componentes, props e estado  
-🔹 **Traveller** – Site responsivo com HTML, CSS e JavaScript  
-🔹 **Painel Admin (em desenvolvimento)** – CRUD com Node + React
-
-👉 Veja meus repositórios abaixo ⬇️
+### Dev Tools
+Git • GitHub • VS Code
 
 ---
 
-## 🎯 Objetivo
+## 🌟 Projetos em destaque
 
-Busco oportunidade como **Desenvolvedor Júnior / Estágio em Desenvolvimento**  
-onde eu possa aprender com time, evoluir tecnicamente e contribuir com projetos reais.
+🔗 [frontend-desafio-1-html-css](https://github.com/imoozy/frontend-desafio-1-html-css)  
+✨ Site responsivo com layout e design
+
+🔗 [Traveller](https://github.com/imoozy/Traveller)  
+🧭 Projeto com HTML, CSS e Bootstrap
+
+🔗 [projeto-teste-react](https://github.com/imoozy/projeto-teste-react)  
+⚛️ Projeto em React com componentes
 
 ---
 
-## 📫 Onde me encontrar
+## 💬 Onde me encontrar
 
-- 💼 LinkedIn: https://www.linkedin.com/in/lucas-magalh%C3%A3es-11672b18b/
-- 🧑‍💻 GitHub: https://github.com/imoozy
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-magalh%C3%A3es-11672b18b/)
+📧 lucal7421@gmail.com
